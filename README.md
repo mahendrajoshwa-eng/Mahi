@@ -2,8 +2,9 @@
 <h3 align="center">Aspiring AI/ML Engineer | Exploring Generative AI 🤖</h3>
 
 ---
-
+<p align="center">
 <img align="right" width="260" hspace="80" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+</p>
 ## 🧠 About Me
 
 - 🎓 Student focused on **Artificial Intelligence & Machine Learning**  
