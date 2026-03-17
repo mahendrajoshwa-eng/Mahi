@@ -41,17 +41,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saniahpaul&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahendrajoshwa-eng&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saniahpaul&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahendrajoshwa-eng&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniahpaul&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendrajoshwa-eng&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🎯 Interests & Hobbies
