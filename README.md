@@ -3,8 +3,7 @@
 
 ---
 
-<img align="right" alt="ai" width="300" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif">
-
+<img align="right" width="260" hspace="80" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 ## 🧠 About Me
 
 - 🎓 Student focused on **Artificial Intelligence & Machine Learning**  
